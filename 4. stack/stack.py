@@ -1,4 +1,4 @@
-# Stack Practice Program
+
 # Stack follows LIFO:
 # Last In, First Out
 

@@ -1,4 +1,4 @@
-# Queue Practice Program
+
 # Queue follows FIFO:
 # First In, First Out
 
